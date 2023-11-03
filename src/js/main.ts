@@ -28,7 +28,7 @@ import { ThemeCustomizer } from "./modules/general/ThemeCustomizer";
 import { EditTracker } from "./modules/misc/EditTracker";
 import { ScriptAssistant } from "./modules/misc/ScriptAssistant";
 import { SmartAlias } from "./modules/misc/SmartAlias";
-import { AdvancedSearch } from "./modules/misc/AdvancedSearch";
+import { AdvancedSearch } from "./modules/search/AdvancedSearch";
 import { TagSuggester } from "./modules/misc/TagSuggester";
 import { UploadUtilities } from "./modules/misc/UploadUtilities";
 import { WikiEnhancer } from "./modules/misc/WikiEnhancer";
