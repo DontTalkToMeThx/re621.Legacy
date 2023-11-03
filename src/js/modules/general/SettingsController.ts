@@ -2216,6 +2216,8 @@ export class SettingsController extends RE6Module {
             ...createInput("FormattingExtender", "Formatting Helper", "Fully customizable toolbar for easy DText formatting."),
 
             ...createInput("SmartAlias", "Smart Alias", "A more intelligent way to quickly fill out post tags."),
+
+            ...createInput("AdvancedSearch", "Advanced Search", "Use the <a href='https://e621.net/forum_topics/40732' target='_blank'>advanced search syntax."),
         ]);
     }
 
